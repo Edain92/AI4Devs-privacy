@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "name": "privacy-vault-6",
+  "description": "En este repositorio encontrarás los ejercicios del tema \"Ética, Regulación y Mejores Prácticas de Privacidad utilizando IA\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "privacy"
+  ],
+  "author": "AI4Devs - Team 6",
+  "license": "ISC"
+}
